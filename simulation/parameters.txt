@@ -1,0 +1,33 @@
+[DEFAULT]
+# Taipei Afternoon Thunderstorm Simulation Parameters
+# Please edit the values below. Do not change the parameter names (left of '=').
+# Save this file before running the simulation.
+# Lines starting with '#' are comments and are ignored.
+
+# --- Simulation Settings (Initial State at 09:00 LST @Taipei) ---
+
+# Solar Radiation: From 1 to 10 (Integer ONLY)
+solar_radiation = 9
+
+# Cloud Coverage: From 0.0 to 1.0
+initial_cloud_coverage = 0.15
+
+# Average Wind Speed (m/s): From 0.0 to 10.0 
+average_wind_speed = 5.0
+
+# Wind Direction Grid: 3x3 grid of wind directions (degrees FROM North)
+# Example:
+# [[240,235,230],
+#  [235,225,220],
+#  [230,220,215]]
+
+wind_direction_grid = [[240,235,230],[235,225,220],[230,220,215]]
+
+# Relative_humidity: From 0 to 100 (Integer ONLY)
+relative_humidity = 90
+
+# Near Surface Temperature (Celsius): From 25.0 to 30.0
+near_surface_temp_c = 30.0
+
+# Air Temperature at 5km height (Celsius): From -5.0 to -15.0
+upper_air_temp_c = -15.0
