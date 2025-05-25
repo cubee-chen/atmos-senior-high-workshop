@@ -170,10 +170,10 @@ This simulation is designed for educational purposes to demonstrate:
 
 ## Author
 
-**Author**: Yu-Chen Chen (Cubee)
-**Contact**: cubee0405@gmail.com
-**Institution**: Department of Atmospheric Sciences at National Taiwan University
-**Date**: 2025
+- **Author**: Yu-Chen Chen (Cubee)
+- **Contact**: cubee0405@gmail.com
+- **Institution**: Department of Atmospheric Sciences at National Taiwan University
+- **Date**: 2025
 
 ## License
 
@@ -181,7 +181,6 @@ This project is provided for educational and research purposes. Please cite the 
 
 ## Acknowledgments
 
-- Taiwan Central Weather Bureau for meteorological insights
 - National Taiwan University for location data
 - Taiwan Government for open shapefile data
 
